@@ -1,0 +1,11 @@
+C:\Users\Сидоренко Михаил\Desktop\Psy.exxe\PsyTest\PsyTest\obj\x86\Debug\PsyTest.Form1.resources
+C:\Users\Сидоренко Михаил\Desktop\Psy.exxe\PsyTest\PsyTest\obj\x86\Debug\PsyTest.Form2.resources
+C:\Users\Сидоренко Михаил\Desktop\Psy.exxe\PsyTest\PsyTest\obj\x86\Debug\PsyTest.csproj.GenerateResource.Cache
+C:\Users\Сидоренко Михаил\Desktop\Psy.exxe\PsyTest\PsyTest\obj\x86\Debug\PsyTest.Properties.Resources.resources
+C:\Users\Сидоренко Михаил\Desktop\Psy.exxe\PsyTest\PsyTest\bin\Debug\PsyTest.exe
+C:\Users\Сидоренко Михаил\Desktop\Psy.exxe\PsyTest\PsyTest\bin\Debug\PsyTest.pdb
+C:\Users\Сидоренко Михаил\Desktop\Psy.exxe\PsyTest\PsyTest\obj\x86\Debug\PsyTest.exe
+C:\Users\Сидоренко Михаил\Desktop\Psy.exxe\PsyTest\PsyTest\obj\x86\Debug\PsyTest.pdb
+C:\Users\Сидоренко Михаил\Desktop\Psy.exxe\PsyTest\PsyTest\obj\x86\Debug\PsyTest.Form3.resources
+C:\Users\Сидоренко Михаил\Desktop\Psy.exxe\PsyTest\PsyTest\obj\x86\Debug\PsyTest.csprojResolveAssemblyReference.cache
+C:\Users\Сидоренко Михаил\Desktop\Psy.exxe\PsyTest\PsyTest\obj\x86\Debug\PsyTest.Form4.resources
